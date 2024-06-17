@@ -5,6 +5,7 @@
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Charles](https://github.com/charcg) 
 - [David Zhu](https://github.com/charcg) 
+- [EyadElsherif] (https://github.com/eyadhhh)
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [KKK](https://github.com/nlpkyukyu)
